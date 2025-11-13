@@ -7,12 +7,12 @@ authors = [
 ]
 license = {text = "MIT"}
 readme = "README.md"
-requires-python = "^3.10"
+requires-python = ">=3.10"
 dependencies = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10"
 pydantic = "^2.0"
 
 [tool.poetry.group.dev.dependencies]
